@@ -10,7 +10,7 @@
 ### 设备注册算法
 <img src="./data/dy_reg.png">
 
-```json
+```javascript
 {
   "device_id": "3109861000223965",
   "iid": "101597186886039"
@@ -20,7 +20,7 @@
 ### x-gorgon x-kronos 算法
 <img src="./data/dy_xg.png">
 
-```json
+```javascript
 {
   "x-gorgon":"0404d0e40001399639b51704a5760372721ccf34c432f6c46b04",
   "x-khronos":"1668220955"
@@ -30,7 +30,7 @@
 ### x-argus x-ladon 算法
 <img src="./data/dy_xa.png">
 
-```json
+```javascript
 {
   "x-gorgon": "040420d20000021445bcfe5add2bofbc146cddeec93d4C7Tee16",
   "x-khronos":"1668220980", 

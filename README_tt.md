@@ -10,7 +10,7 @@ douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register 
 ### Device Register
 <img src="./data/tt_reg.png">
 
-```json
+```javascript
 {
   "device_id": "7164949621905769990",
   "iid": "7164950672638756614"
@@ -21,7 +21,7 @@ douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register 
 ### x-gorgon x-kronos algorithm
 <img src="./data/tt_xg.png">
 
-```json
+```javascript
 {
   "x-gorgon": "0404d0e40001d975d7931704a5760372721ccf34c4326740115",
   "x-khronos": "1668220317"
@@ -31,7 +31,7 @@ douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register 
 ### x-argus x-ladon algorithm
 <img src="./data/tt_xa.png">
 
-```json
+```javascript
 {
   "x-gorgon": "0404e0910000e04d58f3676567790fegdofe55909d969e2e8089",
   "x-khronos": "1668220361",

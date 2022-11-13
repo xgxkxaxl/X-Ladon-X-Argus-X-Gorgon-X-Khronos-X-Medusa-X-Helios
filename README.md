@@ -43,6 +43,10 @@ douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register 
 #### user info test
 <img src="./data/tt_userinfo.gif">
 
+# increase Tiktok views test
+[![Watch the video](https://i.imgur.com/j7R4Ibo.png)](https://youtu.be/FZ7q0j5bDGs)
+
+
 
 # [Contact Telegram](https://t.me/xgxkxaxl)
 

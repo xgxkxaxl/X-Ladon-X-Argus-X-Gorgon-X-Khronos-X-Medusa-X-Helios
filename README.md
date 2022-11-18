@@ -40,6 +40,37 @@ douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register 
 }
 ```
 
+### live data
+<img src="./data/tt_live.png">
+
+```
+<Enter> debay928 entered then room
+<Enter> hoangquynh200493 entered then room
+<Enter> i_am_mildz entered then room
+<Enter> rchrandr entered then room
+<Enter> rotax25394352 entered then room
+<Enter> zamigale entered then room
+<Enter> ershi_7 entered then room
+<Enter> l009.a entered then room
+<Enter> viximcmxciv_ entered then room
+<Enter> sarofahvandjavu entered then room
+<Enter> duyquoc200 entered then room
+<Enter> mwah12270130 entered then room
+<Enter> 000k2513 entered then room
+<Enter> najuni7 entered then room
+<Enter> toriani0 entered then room
+<Enter> lasso.0f.truth entered then room
+<Enter> eleanor_7aan entered then room
+<Enter> rymarthine73 entered then room
+<Enter> sirikorn538 entered then room
+<Comment> brndnvalen: can i buy a pecel?
+<Enter> anu110_ entered then room
+<Enter> shou969 entered then room
+<Enter> inside_zzick entered then room
+<Enter> edionwindster entered then room
+<Enter> emilyeww entered then room
+```
+
 #### user info test
 <img src="./data/tt_userinfo.gif">
 

@@ -1,5 +1,7 @@
 Tiktok Algorithm | [抖音算法](README_dy.md)
 
+# [Contact Telegram](https://t.me/xgxkxaxl)
+
 
 # x-ladon, x-argus, x-gorgon, x-khronos, device register, 
 douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register algorithm

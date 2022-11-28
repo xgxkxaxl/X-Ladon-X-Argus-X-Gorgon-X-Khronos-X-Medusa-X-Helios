@@ -1,8 +1,8 @@
 Tiktok Algorithm | [抖音算法](README_dy.md)
 
 
-# x-ladon, x-argus, x-gorgon, x-khronos, device register, 
-douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register algorithm
+# X-Ladon, X-Argus, X-Gorgon, X-Khronos, device register, 
+douyin and tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register algorithm
 
 
 ## Tiktok Algorithm
@@ -18,25 +18,25 @@ douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register 
 ```
 
 
-### x-gorgon x-kronos algorithm
+### X-Gorgon X-Khronos algorithm
 <img src="./data/tt_xg.png">
 
 ```json
 {
-  "x-gorgon": "0404d0e40001d975d7931704a5760372721ccf34c4326740115",
-  "x-khronos": "1668220317"
+  "X-Gorgon": "0404d0e40001d975d7931704a5760372721ccf34c4326740115",
+  "X-Khronos": "1668220317"
 }
 ```
 
-### x-argus x-ladon algorithm
+### X-Argus X-Ladon algorithm
 <img src="./data/tt_xa.png">
 
 ```json
 {
-  "x-gorgon": "0404e0910000e04d58f3676567790fegdofe55909d969e2e8089",
-  "x-khronos": "1668220361",
-  "x-ladon": "OwauaDJE5WAY95WKixQbm2H7jHWdantuoki5bYVLawi8aLP",
-  "x-argus": "s/HU3WbNr6Jib4yik614CNILMCvCfUkcQkXYATOZJffPchtZVF9gO/×n|KdrsIQOQ|TiPtssLgRnSnQdNPh+fb0z5aguOj4xvk5acihJhJzKdaz/00NxSrhsFdWhy2B2S×9n7ARIPeJYGZMJOsHJBytkNYb9WY6916fgoVxf8X20AEYyAWmS8P87/p/VpfhI0ym0DRsCrrk7j2/uhB8x+JHel5c5mu4Hb3+ybZ8ggCROkH3YiFQnyvlickOrV7aR/sYUcIJTDpMuZQd0Qp+UUJP"
+  "X-Gorgon": "0404e0910000e04d58f3676567790fegdofe55909d969e2e8089",
+  "X-Khronos": "1668220361",
+  "X-Ladon": "OwauaDJE5WAY95WKixQbm2H7jHWdantuoki5bYVLawi8aLP",
+  "X-Argus": "s/HU3WbNr6Jib4yik614CNILMCvCfUkcQkXYATOZJffPchtZVF9gO/×n|KdrsIQOQ|TiPtssLgRnSnQdNPh+fb0z5aguOj4xvk5acihJhJzKdaz/00NxSrhsFdWhy2B2S×9n7ARIPeJYGZMJOsHJBytkNYb9WY6916fgoVxf8X20AEYyAWmS8P87/p/VpfhI0ym0DRsCrrk7j2/uhB8x+JHel5c5mu4Hb3+ybZ8ggCROkH3YiFQnyvlickOrV7aR/sYUcIJTDpMuZQd0Qp+UUJP"
 }
 ```
 
@@ -73,6 +73,7 @@ douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register 
 
 #### user info test
 <img src="./data/tt_userinfo.gif">
+
 
 
 # [Contact Telegram](https://t.me/xgxkxaxl)

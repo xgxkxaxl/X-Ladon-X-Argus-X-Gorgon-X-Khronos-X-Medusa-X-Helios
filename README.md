@@ -1,4 +1,4 @@
-Tiktok Algorithm | [抖音算法](README_dy.md)
+Tiktok Algorithm | [抖音算法](README_dy.md) | [快手算法](README_ks.md)
 
 
 # X-Ladon, X-Argus, X-Gorgon, X-Khronos, device register, sig, __NS_sig3, __NStokensig, 抖音播放量, 抖音分享

@@ -1,9 +1,9 @@
 Tiktok Algorithm | [抖音算法](README_dy.md)
 
 
-# X-Ladon, X-Argus, X-Gorgon, X-Khronos, device register, 
+# X-Ladon, X-Argus, X-Gorgon, X-Khronos, device register, sig, __NS_sig3, __NStokensig, 抖音播放量, 抖音分享
 douyin and tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register algorithm
-
+抖音加密算法,抖音播放量,抖音分享,快手 sig __NS_sig3 __NStokensig
 
 ## Tiktok Algorithm
 

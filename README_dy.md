@@ -53,6 +53,11 @@
 }
 ```
 
+### 抖音刷播放、刷分享算法
+<img src="./data/dy_views_shares.png">
+
+
+
 ### live data
 <img src="./data/dy_live.png">
 

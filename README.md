@@ -8,7 +8,7 @@ Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorit
 ## Tiktok Algorithm
 
 ### Device Register
-<img src="./data/tiktok_reg.png">
+<img src="tiktok_reg.png">
 
 ```json
 {
@@ -20,7 +20,7 @@ Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorit
 
 
 ### X-Gorgon X-Khronos algorithm
-<img src="./data/tiktok_xgxk.png">
+<img src="tiktok_xgxk.png">
 
 ```json
 {
@@ -30,7 +30,7 @@ Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorit
 ```
 
 ### X-Argus X-Ladon algorithm
-<img src="./data/tiktok_xaxl.png">
+<img src="tiktok_xaxl.png">
 
 ```json
 {
@@ -45,7 +45,7 @@ Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorit
 
 
 ### Tiktok live data
-<img src="./data/tiktok_live.png">
+<img src="tiktok_live.png">
 
 ```
 <Online> renardochangcampa is watching
@@ -78,7 +78,7 @@ Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorit
 ## 抖音算法，抖音协议
 
 ### 设备算法
-<img src="./data/douyin_reg.png">
+<img src="douyin_reg.png">
 
 ```json
 {
@@ -89,7 +89,7 @@ Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorit
 
 
 ### X-Gorgon X-Khronos 算法
-<img src="./data/douyin_xgxk.png">
+<img src="douyin_xgxk.png">
 
 ```json
 {
@@ -99,7 +99,7 @@ Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorit
 ```
 
 ### X-Argus X-Ladon 算法，四神算法
-<img src="./data/douyin_xaxl.png">
+<img src="douyin_xaxl.png">
 
 ```json
 {
@@ -111,7 +111,7 @@ Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorit
 ```
 
 ### X-Argus X-Ladon X-Medusa X-Helios 算法，六神算法
-<img src="./data/douyin_xhxm.png">
+<img src="douyin_xhxm.png">
 
 ```json
 {
@@ -126,16 +126,16 @@ Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorit
 ```
 
 ### 抖音刷量协议，刷量算法
-<img src="./data/douyin_views.png">
+<img src="douyin_views.png">
 
 ### 抖音刷分享协议，刷分享算法
-<img src="./data/douyin_shares.png">
+<img src="douyin_shares.png">
 
 ### 抖音播放量查询接口
-<img src="./data/douyin_play_count.png">
+<img src="douyin_play_count.png">
 
 ### 抖音直播间数据
-<img src="./data/douyin_live.png">
+<img src="douyin_live.png">
 
 
 

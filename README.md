@@ -1,5 +1,8 @@
 Tiktok Algorithm | 抖音算法
 
+# [Contact SnapChat](https://www.snapchat.com/add/xgxkxaxl)
+# [联系需翻墙](https://www.snapchat.com/add/xgxkxaxl)
+
 
 # X-Ladon, X-Argus, X-Gorgon, X-Khronos, X-Helios, X-Medusa, Device Registration, 抖音播放量, 抖音分享
 Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorithm  

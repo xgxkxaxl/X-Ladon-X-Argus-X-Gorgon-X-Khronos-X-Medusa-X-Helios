@@ -139,6 +139,6 @@ Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorit
 
 
 
-# [Contact Telegram](https://t.me/xgxkxaxl)
-# [飞机](https://t.me/xgxkxaxl)
+# [Contact SnapChat](https://www.snapchat.com/add/xgxkxaxl)
+# [联系需翻墙](https://www.snapchat.com/add/xgxkxaxl)
 

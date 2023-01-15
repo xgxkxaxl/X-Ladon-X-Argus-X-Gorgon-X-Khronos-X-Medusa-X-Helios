@@ -1,6 +1,8 @@
 Tiktok Algorithm | 抖音算法
 
+# [Contact Telegram](https://t.me/xgxkxaxl)
 # [Contact SnapChat](https://www.snapchat.com/add/xgxkxaxl)
+# [联系需翻墙](https://t.me/xgxkxaxl)
 # [联系需翻墙](https://www.snapchat.com/add/xgxkxaxl)
 
 
@@ -142,6 +144,8 @@ Tiktok X-Argus X-Ladon X-Gorgon X-Khronos Algorithm, Device Registration Algorit
 
 
 
+# [Contact Telegram](https://t.me/xgxkxaxl)
 # [Contact SnapChat](https://www.snapchat.com/add/xgxkxaxl)
+# [联系需翻墙](https://t.me/xgxkxaxl)
 # [联系需翻墙](https://www.snapchat.com/add/xgxkxaxl)
 
